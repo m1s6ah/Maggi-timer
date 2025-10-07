@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maggi Timer<3 </title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="timer-window" id="maggiTimer">
+        <div class="window-title-bar">
+            <span class="title-text">Maggi Timer &lt;3</span>
+            <div class="window-controls">
+                <img src="images/Minimize.png" alt="Minimize" class="control-button">
+
+                <img src="images/cancel button.png" alt="Close" class="control-button" onclick="closeTimer()">
+            </div>
+        </div>
+
+        <div class="content-area" id="contentArea">
+            <img src="images/SunsetBackground.png" alt="Pixel Sky Background" class="background-tile">
+
+            <div class="screen active-screen" id="startScreen">
+                
+                <div class="screen-content">
+                    <img src="images/maggi packet.png" alt="Maggi Packet" class="maggi-visual">
+                    <p class="main-text">Lets time your maggi!</p>
+                    <button class="pixel-button start-button" onclick="showSelectionScreen()">START</button>
+                </div>
+            </div>
+
+            <div class="screen" id="selectionScreen"></div>
+
+            <div class="screen" id="timerScreen"></div>
+
+            <div class="screen" id="finishedScreen"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
