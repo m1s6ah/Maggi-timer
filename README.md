@@ -1,2 +1,29 @@
 # Maggi-timer
 A fun project for my sister who overcooks her maggi always
+
+## 🌟 About the Project
+
+This is my first ever website — designed and developed completely from scratch!  
+I created everything myself, from the **UX design**, **custom illustrations**, and **icons**, to the **Figma prototype** and **final website implementation**.  
+
+> A project that represents my learning journey, creativity, and dedication ✨  
+
+If you would like to use any of the PNGs, icons, or visual assets from this project,  
+**please provide credit** by mentioning:
+> *Designs and assets created by [your name or GitHub username]*
+
+---
+
+### 🎨 Design Process
+
+- **UX Design & Wireframing:** Planned out in Figma  
+- **UI Creation:** Custom pixel-style illustrations and color palette  
+- **Prototype:** [View on Figma](<your-figma-link-here>)  
+- **Development:** Built using HTML, CSS, and JavaScript  
+
+---
+
+### 💖 Acknowledgments
+
+Special thanks to everyone who inspired me to bring this idea to life!  
+This project marks my first step into full-stack creativity — from design to development 💫
