@@ -10,7 +10,7 @@ I created everything myself, from the **UX design**, **custom illustrations**, a
 
 If you would like to use any of the PNGs, icons, or visual assets from this project,  
 **please provide credit** by mentioning:
-> *Designs and assets created by [your name or GitHub username]*
+> *Designs and assets created by [https://github.com/m1s6ah]*
 
 ---
 
@@ -18,7 +18,7 @@ If you would like to use any of the PNGs, icons, or visual assets from this proj
 
 - **UX Design & Wireframing:** Planned out in Figma  
 - **UI Creation:** Custom pixel-style illustrations and color palette  
-- **Prototype:** [View on Figma]((https://www.figma.com/proto/nsiYxov6AdIks75OZdnGcm/maggie-Timer?node-id=4-18&t=2nhpyskg8BuSReo4-1))  
+- **Prototype:** [View on Figma](<(https://www.figma.com/proto/nsiYxov6AdIks75OZdnGcm/maggie-Timer?node-id=4-18&t=2nhpyskg8BuSReo4-1)>)  
 - **Development:** Built using HTML, CSS, and JavaScript  
 
 ---
