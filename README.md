@@ -18,7 +18,7 @@ If you would like to use any of the PNGs, icons, or visual assets from this proj
 
 - **UX Design & Wireframing:** Planned out in Figma  
 - **UI Creation:** Custom pixel-style illustrations and color palette  
-- **Prototype:** [View on Figma]([https://www.figma.com/proto/nsiYxov6AdIks75OZdnGcm/maggie-Timer?node-id=4-18&t=2nhpyskg8BuSReo4-1](https://www.figma.com/design/nsiYxov6AdIks75OZdnGcm/maggie-Timer?node-id=0-1&t=ty50t5J0EDmKOq13-1))  
+- **Prototype:** [View on Figma](https://www.figma.com/proto/nsiYxov6AdIks75OZdnGcm/maggie-Timer?node-id=4-18&t=2nhpyskg8BuSReo4-1](https://www.figma.com/design/nsiYxov6AdIks75OZdnGcm/maggie-Timer?node-id=0-1&t=ty50t5J0EDmKOq13-1)  
 - **Development:** Built using HTML, CSS, and JavaScript  
 
 ---
